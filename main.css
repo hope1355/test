@@ -3,3 +3,8 @@
 	max-width: 980px;
 	padding: 0 10px;
 }
+
+.box {
+	left: 0;
+	top: 0;
+}
